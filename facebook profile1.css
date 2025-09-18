@@ -1,0 +1,119 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:'poppin', sans-serif;
+	box-sizing: border-box;
+}
+.container{
+		width:100%;
+		min-height: 100vh;
+		background:#212121;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+}
+.cutie1{
+		width:90%;
+		max-width: 450px;
+		text-align: center;
+		background: #fff;
+		color: #333;
+}
+.cutie{
+	display: block;
+	width: 100%;
+	
+}
+.angelyn{
+	width: 180px;
+	border-radius: 60%;
+	margin-top: -100px;
+	margin-left: -250px;
+
+}
+h2{
+	margin-left:-200px;
+	
+}
+h4{
+	margin-left:-320px;
+}
+.cutie1 h1{
+		font-weight: 600;
+}
+
+
+.add-btn{
+	diplay:inline-block;
+	text-decoration: none;
+	border: 2px solid #ff004;
+	color: black;
+	padding: 6px 35px;
+	margin: 25px 0;
+	background-color: blue;
+	font-size: 20px;
+	
+}
+.Edit-btn{
+	diplay:inline-block;
+	text-decoration: none;
+	border: 1px solid #ff004;
+	color: #555;
+	padding: 6px 35px;
+	margin: 25px 0;
+	font-size: 20px;
+}
+.dot-btn{diplay:inline-block;
+	text-decoration: none;
+	border: 1px solid #ff004;
+	color: #555;
+	padding: 6px 35px;
+	margin: 25px 0;
+	font-size: 20px;
+}
+.Posts-btn{diplay:inline-block;
+	text-decoration: none;
+	border: 1px solid #ff004;
+	color: #555;
+	padding: 6px 35px;
+	margin: 25px 0;
+	font-size: 20px;
+}
+.Photos-btn{diplay:inline-block;
+	text-decoration: none;
+	border: 1px solid #ff004;
+	color: #555;
+	padding: 6px 35px;
+	margin: 25px 0;
+	font-size: 20px;
+}
+.Reels-btn{diplay:inline-block;
+	text-decoration: none;
+	border: 1px solid #ff004;
+	color: #555;
+	padding: 6px 35px;
+	margin: 25px 0;
+	font-size: 20px;
+}
+.cap{
+	width:70px;
+	height:70px;
+	background-image: url("cap.jpeg");
+	backgroud-position: left;
+}
+h4{
+	margin-left: -330px;
+	
+}
+h5{
+	margin-right: -350px;
+	position:relative;
+	margin-top:-30px;
+}
+h6{
+	margin-buttom: 20px;
+	margin-left: -270px;
+	font-size: 10px;
+}
+
+
