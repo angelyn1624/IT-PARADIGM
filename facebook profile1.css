@@ -95,12 +95,7 @@ h4{
 	margin: 25px 0;
 	font-size: 20px;
 }
-.cap{
-	width:70px;
-	height:70px;
-	background-image: url("cap.jpeg");
-	backgroud-position: left;
-}
+
 h4{
 	margin-left: -330px;
 	
@@ -115,5 +110,6 @@ h6{
 	margin-left: -270px;
 	font-size: 10px;
 }
+
 
 
